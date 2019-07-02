@@ -1,3 +1,8 @@
+---
+permalink: /
+redirect_to:
+  - https://github.com/danielnsilva
+---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/danielnsilva/danielnsilva.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
